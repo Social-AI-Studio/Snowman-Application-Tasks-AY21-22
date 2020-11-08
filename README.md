@@ -34,20 +34,26 @@ You would be invited to work on task 2 if you had performed task 1 well! I will 
 
 Pick one of the following research papers an present it to me. You are welcome to create slides to aid you in this presentation.
 
--  [Abusive language detection in online user content](http://yichang-cs.com/yahoo/WWW16_Abusivedetection.pdf) (WWW'16)
+-  [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/pdf/2004.10964.pdf) (ACL'20)
+-  [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://arxiv.org/pdf/2004.11648.pdf) (ACL'20)
+-  [What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context](https://arxiv.org/pdf/2005.04518.pdf) (ACL'20)
+-  [Topic-aware neural keyphrase generation for social media language](https://arxiv.org/pdf/1906.03889.pdf) (ACL'19)
+-  [Encoding social information with graph convolutional networks forPolitical perspective detection in news media](https://www.aclweb.org/anthology/P19-1247.pdf) (ACL'19)
+-  [Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations](https://www.aclweb.org/anthology/P19-1498.pdf) (ACL'19)
+-  [JNET: Learning User Representations via Joint Network Embedding and Topic Embedding](https://dl.acm.org/doi/pdf/10.1145/3336191.3371770?casa_token=qtyXSQMtu10AAAAA:pLo_HKPiuVHZD4yHb4XOW7P833UwnMC88D1uIKIrOgwb3KEz7R4QRBlIx3-mpGE2eAcLDgo461Am6Q) (WSDM'20)
+-  [Beyond News Contents: The Role of Social Context for Fake News Detection](https://dl.acm.org/doi/pdf/10.1145/3289600.3290994?casa_token=_k9_O4y_jBwAAAAA:mGJirrhOGqE_cXaHnGpmEPGAt8fI4ywrEGaC60H3kBF_JdHUWqjcybe7x5rWyaPicWdplvnw_beTbw) (WSDM'19)
+-  [Neural Based Statement Classification for Biased Language](https://arxiv.org/pdf/1811.05740.pdf) (WSDM'19)
+-  [Homogeneity-based transmissive process to model true and false news in social networks](https://dl.acm.org/doi/pdf/10.1145/3289600.3291009?casa_token=lSeBX2mv46QAAAAA:n3V5L4wxLnb3oRGaWvKVgiVHHcmJ143cKxbZDcI-BN0u3wDcR_TB3wT0YJ4hoAhb-V-TV_OdO6E7Ww) (WSDM'19)
+-  [DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403092?casa_token=wrcnanj1mI0AAAAA:Nj1Xib12nP0JcGj6NFHaAdVq_rworHV64gfMNkpXJ_6hGZEtJpP9n2scRaFSEMWJaoNbCstrsldg_A) (KDD'20)
+-  [Cascade-LSTM: A Tree-Structured Neural Classifier for Detecting Misinformation Cascades](https://dl.acm.org/doi/pdf/10.1145/3394486.3403317?casa_token=Mzk8tjHKz30AAAAA:8e90siCm3rH8EFYMTmzaq7uEdw3i9K5cooaSY9Bn7n7pqw5yZFXpdIbPE_DB83Cb4kj5cgPKcID5bw) (KDD'20)
+-  [dEFEND: Explainable Fake News Detection](https://dl.acm.org/doi/pdf/10.1145/3292500.3330935?casa_token=uSFWKwPgSgcAAAAA:z1QcUl5sEiXSE4U4wT5KcC6i_E-79Bo1vLSzDjTsctaSuRCIUr3yHbmWvMRmI-lwIc6LVBt2Ye6LVg) (KDD'19)
 -  [Neural Based Statement Classification for Biased Language](https://arxiv.org/pdf/1811.05740.pdf) (WSDM'19)
 -  [Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation](https://users.dcc.uchile.cl/~jperez/papers/sigir2019.pdf) (SIGIR'19)
 -  [Multilingual and Multi-Aspect Hate Speech Analysis](https://www.aclweb.org/anthology/D19-1474.pdf)(EMNLP'19)
 -  [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://arxiv.org/pdf/2004.04216.pdf) (ACL'20)
 -  [Contextualizing Hate Speech Classifiers with Post-hoc Explanation](https://arxiv.org/pdf/2005.02439.pdf) (ACL'20)
--  [The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](https://arxiv.org/pdf/2005.04790.pdf)(Arvix'20)
--  [Adversarial Multi-task Learning for Text Classification](https://arxiv.org/pdf/1704.05742.pdf) (ACL'17)
--  [Deep Multi-Task Learning with Shared Memory](https://arxiv.org/pdf/1609.07222.pdf) (ACL'16)
--  [Recurrent Neural Network for Text Classification with Multi-Task Learning](https://arxiv.org/pdf/1605.05101.pdf) (IJCAI'16)
 -  [Gated Multi-Task Network for Text Classification](https://www.aclweb.org/anthology/N18-2114.pdf) (NAACL'18)
 -  [Learning What to Share: Leaky Multi-Task Network for Text Classification](https://www.aclweb.org/anthology/C18-1175.pdf) (ACL'18)
--  [A Generalized Recurrent Neural Architecture for Text Classification with Multi-Task Learning](https://www.ijcai.org/Proceedings/2017/0473.pdf) (IJCAI'17)
-
 
 **Deliverable**: Present the paper during the coordinated Skype meeting. Note that you might be asked questions on Task 1 in this interview. 
 
