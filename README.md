@@ -8,7 +8,7 @@ Should you have any questions on the following two tasks, please drop me an emai
 
 ## Task 1: Automated Hate Speech Detection
 
-The sharp increase in online hate speeches has raised concerns globally as the spread of such toxic content and misbehavior have not only sowed discord among individuals or communities online but also resulted in violent hate crimes. Therefore, it is a pressing issue to detect and curb hate speech in online social media. In this task, you are required to detect hateful content in a publicly available Twitter dataset from the [notable work by Wazeem and Hovy (2016)](https://www.aclweb.org/anthology/N16-2013.pdf). 
+The sharp increase in online hate speeches has raised concerns globally as the spread of such toxic content and misbehavior have not only sowed discord among individuals or communities online but also resulted in violent hate crimes. Therefore, it is a pressing issue to detect and curb hate speech in online social media. In this task, you are required to detect hateful content in a publicly available Twitter dataset collected for the [notable work by Wazeem and Hovy (2016)](https://www.aclweb.org/anthology/N16-2013.pdf). 
 
 
 You are given the following files in *dataset* folder:
@@ -34,24 +34,19 @@ You would be invited to work on task 2 if you had performed task 1 well! I will 
 
 Pick one of the following research papers an present it to me. You are welcome to create slides to aid you in this presentation.
 
-1. [Hierarchical User and Item Representation with Three-Tier Attention for Recommendation](https://www.aclweb.org/anthology/N19-1180.pdf) (NAACL19)
-2. [Variational autoencoders for collaborative filtering](https://arxiv.org/pdf/1802.05814.pdf) (WWW18) 
-3. [Neural collaborative filtering](https://arxiv.org/pdf/1708.05031.pdf) (WWW17)
-4. [DeepFM: a factorization-machine based neural network for CTR prediction](https://www.ijcai.org/proceedings/2017/0239.pdf) (IJCAI17)
-5. [A multi-view deep learning approach for cross domain user modeling in recommendation systems](http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf) (WWW15) 
-6. [CROSS: Cross-platform Recommendation for Social E-Commerce](http://delivery.acm.org/10.1145/3340000/3331191/p515-lin.pdf?ip=128.233.10.222&id=3331191&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E0F446B7AFEA05D92%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575566088_2039698ece9d8ee996ccdbf205f8323b) (SIGIR19)
-7. [An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation](http://delivery.acm.org/10.1145/3340000/3331192/p225-chen.pdf?ip=128.233.10.222&id=3331192&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E0F446B7AFEA05D92%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575565929_ebf835ffcc2219f62358c41f99130711) (SIGIR19)
-8. [A Capsule Network for Recommendation and Explaining What You Like and Dislike](https://arxiv.org/pdf/1907.00687.pdf) (SIGIR19)
-9. [AutoInt: Automatic Feature Interaction Learningvia Self-Attentive Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3357384.3357925?casa_token=C42GzATU82AAAAAA:eDB8GdLJXqRWmItnr7TrW-YTTWIGIgXgqpFrzBM_ODIfwDcn4vMPOTrO1PrrHA2whx-HZzhVJy4_) (CIKM19)
-10. [DeepInf: Modeling influence locality in large social networks](https://pdfs.semanticscholar.org/bd35/082b63662249d5050e98a96592e5cd67a904.pdf) (KDD'18)
-11. [Learning Dynamic Context Graphs for Predicting Social Events](https://yue-ning.github.io/docs/KDD19-dengA.pdf) (KDD'19) 
-12. [SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) (AAAI'19)
-13. [A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) (SIGIR'19)
-14. [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) (SIGIR'19)
-15. [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (Arxiv 20)
-16. [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3219819.3219890) (KDD'18)
-17. [Explainable Entity-based Recommendations with Knowledge Graphs](https://arxiv.org/pdf/1707.05254) (RecSys2017)
-18. [Tem: Tree-enhanced embedding model for explainable recommendation](https://dl.acm.org/doi/pdf/10.1145/3178876.3186066) (WWW2018)
+-  [Abusive language detection in online user content](http://yichang-cs.com/yahoo/WWW16_Abusivedetection.pdf) (WWW'16)
+-  [Neural Based Statement Classification for Biased Language](https://arxiv.org/pdf/1811.05740.pdf) (WSDM'19)
+-  [Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation](https://users.dcc.uchile.cl/~jperez/papers/sigir2019.pdf) (SIGIR'19)
+-  [Multilingual and Multi-Aspect Hate Speech Analysis](https://www.aclweb.org/anthology/D19-1474.pdf)(EMNLP'19)
+-  [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://arxiv.org/pdf/2004.04216.pdf) (ACL'20)
+-  [Contextualizing Hate Speech Classifiers with Post-hoc Explanation](https://arxiv.org/pdf/2005.02439.pdf) (ACL'20)
+-  [The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](https://arxiv.org/pdf/2005.04790.pdf)(Arvix'20)
+-  [Adversarial Multi-task Learning for Text Classification](https://arxiv.org/pdf/1704.05742.pdf) (ACL'17)
+-  [Deep Multi-Task Learning with Shared Memory](https://arxiv.org/pdf/1609.07222.pdf) (ACL'16)
+-  [Recurrent Neural Network for Text Classification with Multi-Task Learning](https://arxiv.org/pdf/1605.05101.pdf) (IJCAI'16)
+-  [Gated Multi-Task Network for Text Classification](https://www.aclweb.org/anthology/N18-2114.pdf) (NAACL'18)
+-  [Learning What to Share: Leaky Multi-Task Network for Text Classification](https://www.aclweb.org/anthology/C18-1175.pdf) (ACL'18)
+-  [A Generalized Recurrent Neural Architecture for Text Classification with Multi-Task Learning](https://www.ijcai.org/Proceedings/2017/0473.pdf) (IJCAI'17)
 
 
 **Deliverable**: Present the paper during the coordinated Skype meeting. Note that you might be asked questions on Task 1 in this interview. 
