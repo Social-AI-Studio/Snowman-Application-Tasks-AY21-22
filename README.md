@@ -22,7 +22,7 @@ You are required to report your models' precision, recall, and F1 scores on the 
 Note that I am not just looking at the best performance. I am more interested in your thinking process. Specifically, I will like to know the following:
 
 *  How do you approach this problem?
-*  How you decide which link prediction models to implement?
+*  How you decide which classification models to implement?
 *  How you interpret your results?
 
 This task gives you a sneak preview on what you will be working on after joining my research team. You will be building novel machine learning algorithms, writing codes, designing experiments to evaluate your models, analyzing results, etc. If you find this task fun, then yes, you are the right student, and I am your right supervisor :)
